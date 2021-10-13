@@ -16,5 +16,4 @@ optional arguments:
 
 Examples:
 python3 UnRecBin.py -i $Recycle.Bin -o output
-
 ```
