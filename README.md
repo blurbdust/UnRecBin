@@ -1,6 +1,6 @@
 # UnRecBin
 
-```python
+```
 usage: UnRecBin.py [-h] -i INPUT [-o OUTPUT]
 
 A tool to parse the $I metadata files from a Windows recycling bin to restore the file name to the $R files.
